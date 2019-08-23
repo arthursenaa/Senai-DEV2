@@ -1,0 +1,3 @@
+CREATE DATABASE T_Gufos
+
+USE T_Gufos
